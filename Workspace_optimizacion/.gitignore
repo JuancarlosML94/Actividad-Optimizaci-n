@@ -1,1 +1,4 @@
 /.metadata/
+# SonarLint
+.sonarlint/
+Workspace_optimizacion/.sonarlint/

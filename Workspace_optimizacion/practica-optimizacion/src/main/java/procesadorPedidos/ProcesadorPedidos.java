@@ -1,4 +1,4 @@
-package ProcesadorPedidos;
+package procesadorPedidos;
 
 import java.util.ArrayList;
 
